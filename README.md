@@ -7,6 +7,8 @@ https://paper.dropbox.com/doc/Meeting-notes-Kevin-Varghese-Chittilapilly-and-Tap
 
 https://paper.dropbox.com/doc/Meeting-notes-Anchal-Hora-and-Tapasweni-Pathak--AfYz1fGd8HCZmgGrjMG4q8__AQ-HhokLaYpe4xKwspbK6K3q
 
+https://paper.dropbox.com/doc/Meeting-notes-Abhishek-Guragol-and-Tapasweni-Pathak--AfsILNOhPRFBCL1ZhhLiOo6RAQ-QktKzqaOUIDzGmw052e5x
+
 
 # Timelines
 
@@ -14,9 +16,13 @@ https://paper.dropbox.com/doc/Meeting-notes-Anchal-Hora-and-Tapasweni-Pathak--Af
 
 [@horaanchal Timeline]()
 
+[@Abhishekguragol Timeline]()
+
 # Calendar
 
 [@KevinChittilapilly Calendar]()
 
 [@horaanchal Calendar]()
+
+[@Abhishekguragol Calendar]()
 
