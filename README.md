@@ -11,6 +11,8 @@ https://paper.dropbox.com/doc/Meeting-notes-Abhishek-Guragol-and-Tapasweni-Patha
 
 https://paper.dropbox.com/doc/Meeting-notes-Niharika-Vadlamudi-and-Tapasweni-Pathak--Afv_hPS6buBYrx~G7nN63qiaAQ-p1yePKCfBw4U2oqvvX55a
 
+https://paper.dropbox.com/doc/Meeting-notes-aman-shah-and-Tapasweni-Pathak--AgppFx9mCqXSBOdyVMNkRWcCAQ-GgfhjF8E7taLMQIWmrTQu
+
 # Timelines
 
 [@KevinChittilapilly Timeline]()
@@ -30,3 +32,5 @@ https://paper.dropbox.com/doc/Meeting-notes-Niharika-Vadlamudi-and-Tapasweni-Pat
 [@Abhishekguragol Calendar]()
 
 [@NiharikaMessi Calendar]()
+
+[@shah-aman Calendar]()
